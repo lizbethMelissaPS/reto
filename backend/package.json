@@ -1,0 +1,29 @@
+{
+  "name": "y",
+  "version": "1.0.0",
+  "main": "mysql.js",
+  "scripts": {
+    "dev": "nodemon src/mysql.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.18.2",
+    "mysql": "^2.18.1",
+    "mysql2": "^3.6.1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/lizbethMelissaPS/reto.git"
+  },
+  "bugs": {
+    "url": "https://github.com/lizbethMelissaPS/reto/issues"
+  },
+  "homepage": "https://github.com/lizbethMelissaPS/reto#readme",
+  "description": "",
+  "devDependencies": {
+    "nodemon": "^3.0.1"
+  }
+}
